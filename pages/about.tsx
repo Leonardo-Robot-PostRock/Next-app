@@ -16,13 +16,13 @@ export default function Home() {
 			</Head>
 			<main className={`${styles.main} ${inter.className}`}>
 				<h1 className={styles.title}>
-          Ir a <a href="/about">About</a>
+          Ir a <a href="/">Home</a>
         </h1>
 
 				<div className={styles.description}>
 					<p>
 						Get started by editing&nbsp;
-						<code className={styles.code}>pages/index.tsx</code>
+						<code className={styles.code}>pages/about.tsx</code>
 					</p>
 				</div>
 			</main>

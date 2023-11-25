@@ -27,6 +27,9 @@ export default function Home() {
 				<h1 className={styles.title}>
 					Ir a <Link href='/about'>About</Link>
 				</h1>
+				<h1 className={styles.title}>
+					Ir a <Link href='/contact'>Contact</Link>
+				</h1>
 
 				<div className={styles.description}>
 					<p>

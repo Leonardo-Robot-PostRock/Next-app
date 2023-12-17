@@ -21,7 +21,7 @@ export default function contactPage() {
 				<div className={'description'}>
 					<p>
 						Get started by editing&nbsp;
-						<code className={'code'}>pages/contact.tsx</code>
+						<code className={'code'}>pages/contact/contact.tsx</code>
 					</p>
 				</div>
 			</MainLayout>
